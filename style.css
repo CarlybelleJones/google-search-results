@@ -1,0 +1,67 @@
+*  {
+    margin: 0;
+    padding: 0;
+    font-family: Serif;
+}
+
+html, body {
+    height: 100%;
+}
+
+main {
+    overflow: scroll;
+}
+
+p {
+    color: rgb(90, 83, 83)
+    font-family: Serif;
+}
+
+#first {
+    display: inline-block;
+}
+
+#second {
+    display: inline-block;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    Z-index: 2;
+}
+
+#google-logo {
+    width: 130px;
+    display: inline-block;
+}
+
+form {
+    display: inline-block;
+}
+input {
+    border-radius: 40px;  
+    width: 400px;
+}
+
+.ads {
+    background-color: yellowgreen;
+}
+
+aside {
+    background-color: orange;
+}
+
+.results {
+    background-color: purple
+}
+
+.videos {
+    background-color: rgb(39, 144, 243);
+}
+
