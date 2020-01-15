@@ -52,6 +52,13 @@ input {
     border: solid 1px lightgrey;
 }
 
+#magnifyglass {
+    position: relative;
+    width: 22px;
+    right: 40px;
+    top: 4px;
+}
+
 #dots {
     width: 25px;
     height: 25px;
